@@ -3,3 +3,16 @@
   color: brown;
   font-family: fantasy;
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: Turquoise;
+}
+
+.lorem {
+  font-style: bold;
+  color: blue;
+}
